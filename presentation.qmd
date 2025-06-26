@@ -6,7 +6,7 @@ slide-tone: true
 format:
   revealjs:
     theme: [beige, ./repurpose.scss] 
-    background-image: ./rpback.png
+    background-image: "./rpback.png"
     transition: fade
     chalkboard: true
 ---
