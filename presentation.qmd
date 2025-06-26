@@ -1,0 +1,232 @@
+---
+title: "Tecnología de la <red>*Opresión*</red> - Software de la <green>*Liberación*</green>"
+author: "Sebastian Silva"
+institute: "Repurpuse-IT"
+slide-tone: true
+format:
+  revealjs:
+    theme: [beige, ./repurpose.scss] 
+    background-image: ./rpback.png
+    transition: fade
+    chalkboard: true
+---
+
+## {transition=zoom autoslide=5000 style="text-align: center;"}
+
+![](./logo.png)
+
+## {auto-animate=true autoslide=4000}
+
+<stamp class="r-fit-text"> Technology - Education - Culture </stamp>
+
+## {auto-animate=true autoslide=4000}
+
+<stamp class="r-fit-text"> Tecnología - Educación - Cultura </stamp>
+
+<stamp class="r-fit-text"> Technology - Education - Culture </stamp>
+
+## {auto-animate=true autoslide=4000}
+
+<stamp class="r-fit-text"> Seynachʉ gúnkʉnʉ - Riwiamʉ - Kunsamʉ bunachʉ </stamp>
+
+<stamp class="r-fit-text"> Tecnología - Educación - Cultura </stamp>
+
+<stamp class="r-fit-text"> Technology - Education - Culture </stamp>
+
+## {auto-animate=true}
+
+<stamp class="r-fit-text"> Khĩirjũg - Khʉd - Joobanʉm </stamp>
+
+<stamp class="r-fit-text"> Seynachʉ gúnkʉnʉ - Riwiamʉ - Kunsamʉ bunachʉ </stamp>
+
+<stamp class="r-fit-text"> Tecnología - Educación - Cultura </stamp>
+
+<stamp class="r-fit-text"> Technology - Education - Culture </stamp>
+
+## Tecnología {transition="zoom" style="text-align:center"} 
+
+::: {.r-stack .slideshow}
+
+![](./arco.jpg)
+
+![](./machete.jpg){.fragment .fade-up}
+
+![](./celu.png){.fragment .fade-right}
+
+![](./compass.jpg){.fragment .fade-left}
+
+![](./laptop.jpg){.fragment .fade-down}
+
+:::
+
+## {.center background-color="#000000"}
+
+{{< video ./brujula.mp4 >}}
+
+---
+
+::: {.column}
+![](./serpiente_cover.png){.center}
+:::
+::: {.column}
+![](./escena.png){height="100%" width="auto"}
+
+::: {.card}
+<stamp> ¿Quién decide qué puedo hacer con la tecnología? </stamp>
+:::
+
+:::
+
+
+
+---
+
+## Conquistadores Digitales {style="text-align:center" transition="slide"}
+
+![](./corps.png){.r-stretch}
+
+::: {.fragment .fade-up}
+<stamp class="r-fit-text">La tecnología nos puede *liberar* <br> pero también nos puede *esclavizar*.</stamp>
+:::
+
+---
+
+<h1> <green>Existen alternativas</green> </h1>
+
+<h2> Que respetan nuestra <green>**Soberanía Tecnológica**</green></h2>
+
+::: {.column}
+
+![](./screenshot.png){height="380px"}
+
+:::
+
+::: {.column}
+
+![](./ostree.png )
+
+:::
+
+# ¿Dónde está <br> <red>la línea roja</red>?
+
+# Software Libre {transition="zoom" style="text-align:center"}
+
+::: {.card .incremental}
+* <green>Libertad 0</green>: Usar para cualquier propósito
+* <green>Libertad 1</green>: Estudiar y modificar
+* <green>Libertad 2</green>: Compartir con otros
+* <green>Libertad 3</green>: Compartir mejoras
+:::
+
+---
+
+::: { .card }
+<h2> La computadora es una extensión de la mente </h2>
+¿Quién decide lo que puedo pensar?
+:::
+<br>
+
+::: {.column}
+![](./mano-martillo.jpg){height="400px"}
+:::
+
+::: {.column}
+
+::: {.card .incremental}
+* Memoria
+* Análisis
+* Comunicación
+* Automatización
+* Mucho más...
+:::
+
+:::
+
+---
+
+::: {.card }
+* <green>Libertad 0</green>: Usar para cualquier propósito
+* <green>Libertad 1</green>: Estudiar y modificar
+* <green>Libertad 2</green>: Compartir con otros
+* <green>Libertad 3</green>: Compartir mejoras
+:::
+
+<br>
+
+::: {.card}
+El Software Libre nace de un **profundo respeto** por las personas.
+
+Es un movimiento <green>**ético y político**</green> - <red>no tecnológico</red>.
+:::
+
+# Solo la tecnología <green>*libre*</green> &nbsp; garantiza nuestra <green>*Soberanía Tecnológica*</green>
+
+---
+
+::: {.column}
+
+<h2>Para crear<br> nuestra propia</h2>
+
+<h1><green>*cultura digital*</green></h1>
+
+:::
+
+::: {.column}
+
+![](./teclado.png)
+
+:::
+
+## ![](./cropped-repurpose-it-logo-header-fixed.webp)  <green>*Soberanía*</green> - no solo tecnología
+
+![](./yesid.jpg)
+
+## {autoslide=4000}
+
+![](./team.png)
+
+## {autoslide=4000}
+
+![](./isme1.jpeg)
+
+## {autoslide=4000}
+
+![](./isme2.jpeg)
+
+## {autoslide=4000}
+
+![](./foto1.jpg)
+
+## {autoslide=4000}
+
+![](./foto2.jpg)
+
+## {autoslide=4000}
+
+![](./evento1.jpg)
+
+## {autoslide=4000}
+
+![](./events.png)
+
+
+## Gracias - Thank you - Duni {.nostretch}
+
+### sebastian@fuentelibre.org - @icarito_libre
+
+![](./license.png)
+
+::: {.column}
+
+![](./gunmaku.png){height=300px}
+
+
+:::
+
+::: {.column}
+
+![](./mulkua.png){height=300px}
+
+:::
+
+26 de Junio de 2025 - Santa Marta, Colombia

@@ -1,0 +1,38 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: "Noto Sans", serif !default;
+
+/*-- scss:rules --*/
+
+.reveal .slide .card {
+    text-align: center;
+    border: 3px solid darkred;
+    background-color: #ddd8;
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.reveal .slide stamp {
+    font-weight: bolder;
+    color: darkgreen;
+}
+
+.slideshow img {
+    border: 2px solid black;
+    width: auto;
+    height: 550px;
+}
+
+.column img {
+    border: 2px solid black;
+    background-color: white;
+}
+
+red {
+    color: darkred;
+}
+
+green {
+    color: darkgreen;
+}
